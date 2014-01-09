@@ -24,3 +24,24 @@ Watchr
 SETPATH
 =======
  add 'PATH=$PATH:~/vendor/bin;export PATH;' to .bashrc
+
+Curl
+====
+sudo apt-get install curl
+
+VIM
+===
+ sudo apt-get install vim
+
+GIT
+===
+ sudo apt-get install git-core
+
+Rake
+====
+sudo apt-get install rake
+
+
+Vim Plugin Janus
+================
+ curl -Lo- https://bit.ly/janus-bootstrap | bash
