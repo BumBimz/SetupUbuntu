@@ -45,3 +45,4 @@ sudo apt-get install rake
 Vim Plugin Janus
 ================
  curl -Lo- https://bit.ly/janus-bootstrap | bash
+ /.vim/janus/vim/core/before/plugin/settings.vim
