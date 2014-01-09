@@ -20,3 +20,7 @@ Watchr
 ======
  sudo gem install watchr
  Download watchr.rb
+
+SETPATH
+=======
+ add 'PATH=$PATH:~/vendor/bin;export PATH;' to .bashrc
