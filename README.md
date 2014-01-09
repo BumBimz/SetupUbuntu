@@ -46,3 +46,11 @@ Vim Plugin Janus
 ================
  curl -Lo- https://bit.ly/janus-bootstrap | bash
  /.vim/janus/vim/core/before/plugin/settings.vim
+
+SETGIT
+======
+ cd ~/.ssh
+ ssh-keygen -t rsa -C "your_email@example.com"
+ ssh-add id_rsa
+ copy ~/.ssh/id_rsa.pub =>https://github.com/settings/ssh
+ 
