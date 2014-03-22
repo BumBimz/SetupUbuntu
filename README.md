@@ -54,3 +54,7 @@ SETGIT
  ssh-add id_rsa
  copy ~/.ssh/id_rsa.pub =>https://github.com/settings/ssh
  
+wiless dell
+===========
+sudo apt-get update
+sudo apt-get install bcmwl-kernel-source
